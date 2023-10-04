@@ -1,0 +1,10 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "lib": ["es2020", "es2019.object"],
+    "target": "es6",
+    "module": "commonjs",
+    "importHelpers": true,
+    "moduleResolution": "node"
+  }
+}
